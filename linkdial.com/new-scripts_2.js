@@ -1,0 +1,2 @@
+WebFontConfig={google:{families:['Ubuntu&display=swap'],},timeout:4000};(function(d){var wf=d.createElement('script'),s=d.scripts[0];wf.src='https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';wf.async=true;s.parentNode.insertBefore(wf,s);})(document);function toggleMenu(){const menu=document.getElementById('menu')
+console.log(menu.style);if(menu.style.display==='block'){menu.style.display='none';}else{menu.style.display='block';}}

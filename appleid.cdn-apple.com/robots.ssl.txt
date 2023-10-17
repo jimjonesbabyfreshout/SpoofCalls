@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /account/
+Allow: /settings/

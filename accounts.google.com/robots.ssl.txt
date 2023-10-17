@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /accounts/ClientAuth
+Allow: /accounts/ClientLogin
+Allow: /AccountDisavow?
+Allow: /ClientAuth
+Allow: /ClientLogin
+Allow: /ReportBug
+Allow: /
